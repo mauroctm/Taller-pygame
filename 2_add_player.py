@@ -1,3 +1,4 @@
+#Workshop Pygame Mauricio Castillo
 import pygame
 pygame.init()
 #Dimensiones de la ventana
