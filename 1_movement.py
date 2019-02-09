@@ -2,13 +2,14 @@
 import pygame
 
 pygame.init()
+
 #Dimensiones de la ventana
 widthWindows = 648
 heightWindows = 480
-windows = pygame.display.set_mode((widthWindows , heightWindows ))
+windows = pygame.display.set_mode((widthWindows, heightWindows))
 pygame.display.set_caption('Movimientos INPUT')
 
-# defeinicion de color de fonso
+# defeinicion de color de fondo
 colorFondo = pygame.Color(254, 254, 254)
 #definicion de variables
 x = 10

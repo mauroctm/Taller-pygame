@@ -6,9 +6,11 @@ widthWindows = 648
 heightWindows = 480
 windows = pygame.display.set_mode((widthWindows, heightWindows))
 pygame.display.set_caption('Estetica INPUT')
+
 character = pygame.image.load("player.png")
 backgroun = pygame.image.load("bg.jpg")
-# defeinicion de color de fonso
+
+# defeinicion de color de fondo
 colorFondo = pygame.Color(254, 254, 254)
 
 #definicion de variables

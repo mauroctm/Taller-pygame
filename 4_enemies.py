@@ -38,7 +38,6 @@ class Enemy(object):
     Enemigo
     '''
     obj = pygame.image.load('enem.png')
-    dea = pygame.image.load('enem.png')
 
     def __init__(self, x, y, width, height, end):
 
